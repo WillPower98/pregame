@@ -1,0 +1,9 @@
+import React, {Component} from 'react';
+import quiz from './quiz';
+import {
+  StyleSheet,
+  StatusBar,
+  TouchableOpacity,
+  View,
+  Text
+} from 'react-native';
